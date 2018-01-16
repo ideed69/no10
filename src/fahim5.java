@@ -13,6 +13,7 @@ public class fahim5 {
             
 {
     System.out.println("Samsung");
+    System.out.println("OPPO");
 
 
     
